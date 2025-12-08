@@ -21,7 +21,7 @@ use the following link:
 
 ## How to Run (Windows)
 1. Ensure the Arduino is connected.
-2. Connect the Arduino device and upload 'arduino/braille_device.ino'.
+2. Upload 'arduino/braille_device.ino' to the device.
 3. Double-click 'DotSense.exe'
 4. Follow the on-screen or voice instructions.
 
