@@ -1,0 +1,489 @@
+¡Hola!
+Buenos días
+Buenas tardes
+Buenas noches
+Adiós
+¿CÓMO ESTÁS?
+Mañana
+Pasado mañana
+Ayer
+Anteayer
+Árbol
+Flor
+Cielo
+Sol
+Luna
+Estrella
+Planeta
+Galaxia
+Universo
+Corazón
+Amor
+Felicidad
+Tristeza
+Alegría
+Enojo
+Sorpresa
+Misterio
+Aventura
+Viaje
+Destino
+Ruta
+Calle
+Avenida
+Plaza
+Mercado
+Tienda
+Restaurante
+Café
+Bar
+Biblioteca
+Museo
+Parque
+Playa
+Montaña
+Río
+Lago
+Mar
+Isla
+Bosque
+Jardín
+Casa
+Apartamento
+Edificio
+Hotel
+Hospital
+Iglesia
+Escuela
+Universidad
+Colegio
+Oficina
+Trabajo
+Empresa
+Negocio
+Dinero
+Banco
+Internet
+Celular
+Computadora
+Programación
+Desarrollo
+Ingeniería
+Matemáticas
+Física
+Química
+Biología
+Historia
+Geografía
+Literatura
+Arte
+Música
+Cine
+Teatro
+Fotografía
+Poesía
+Novela
+Ensayo
+Economía
+Política
+Filosofía
+Psicología
+Sociología
+Antropología
+Medicina
+Enfermería
+Farmacia
+Dentista
+Arquitectura
+Diseño
+Moda
+Deporte
+Ciclismo
+Natación
+Atletismo
+Fútbol
+Baloncesto
+Béisbol
+Voleibol
+Tenis
+Golf
+Automóvil
+Bicicleta
+Avión
+Tren
+Barco
+Metro
+Aeropuerto
+Estación
+Mercado
+Supermercado
+Tienda
+Restaurante
+Café
+Computador
+Teclado
+Mouse
+Pantalla
+Libro
+Revista
+Periódico
+Diario
+Semana
+Mes
+Año
+Día
+Hora
+Minuto
+Segundo
+¡Qué sorpresa!
+Feliz cumpleaños
+Te amo
+Por favor
+Muchas gracias
+Lo siento
+Disculpa
+¿Me ayudas?
+Claro que sí
+No hay problema
+Amanecer
+Atardecer
+Medianoche
+Madrugada
+Eclipse
+Aurora
+Crepúsculo
+Tempestad
+Tormenta
+Lluvia
+Nieve
+Granizo
+Viento
+Brisa
+Huracán
+Tornado
+Terremoto
+Erupción
+Volcán
+Avalancha
+Inundación
+Sequía
+Ola
+Marea
+Corriente
+Acantilado
+Península
+Continente
+Archipiélago
+Desierto
+Oasis
+Selva
+Sabana
+Pradera
+Cumbre
+Valle
+Cañón
+Glaciar
+Selva tropical
+Reserva
+Parque nacional
+Monumento
+Ruinas
+Castillo
+Palacio
+Templo
+Mausoleo
+Monasterio
+Catedral
+Sinagoga
+Mezquita
+Pagoda
+Fortaleza
+Muralla
+Puente
+Torre
+Rascacielos
+Cabaña
+Refugio
+Campamento
+Barrio
+Ciudad
+Metrópoli
+Población
+Comunidad
+Vecindario
+Distrito
+Municipio
+Provincia
+Estado
+Nación
+Mundo
+Globo
+Sistema solar
+Multiverso
+Ciencia
+Tecnología
+Ingeniería
+Matemáticas
+Física
+Química
+Biología
+Ecología
+Astronomía
+Geología
+Psicología
+Sociología
+Antropología
+Arqueología
+Filosofía
+Lógica
+Ética
+Estética
+Política
+Economía
+Historia
+Literatura
+Música
+Artesanía
+Arquitectura
+Pintura
+Escultura
+Danza
+Moderno
+Clásico
+Tradicional
+Futuro
+Pasado
+Presente
+Rápido
+Lento
+Fácil
+Difícil
+Inteligente
+Tonto
+Fuerte
+Débil
+Grande
+Pequeño
+Alto
+Bajo
+Ancho
+Estrecho
+Nuevo
+Viejo
+Joven
+Anciano
+Rico
+Pobre
+Limpio
+Sucio
+Ordenado
+Desordenado
+Claro
+Oscuro
+Brillante
+Opaco
+Caliente
+Frío
+Seco
+Húmedo
+Mojado
+Fresco
+Sabroso
+Delicioso
+Amargo
+Dulce
+Salado
+Picante
+Ácido
+Suave
+Áspero
+Ruidoso
+Silencioso
+Feliz
+Triste
+Enojado
+Alegre
+Serio
+Divertido
+Interesante
+Aburrido
+Animado
+Calmado
+Excitado
+Relajado
+Temeroso
+Valiente
+Optimista
+Pesimista
+Realista
+Idealista
+Creativo
+Innovador
+Tradicional
+Moderno
+Avanzado
+Antiguo
+Rústico
+Elegante
+Sencillo
+Complejo
+Simple
+Extraño
+Normal
+Especial
+Único
+Múltiple
+Diverso
+Variado
+Constante
+Variable
+Dinámico
+Estático
+Flexible
+Rígido
+Ligero
+Pesado
+Fluido
+Denso
+Transparente
+Opaco
+Resistente
+Frágil
+Duradero
+Temporal
+Eterno
+Momentáneo
+Continuo
+Intermitente
+Permanente
+Transitorio
+Vital
+Esencial
+Innecesario
+Fundamental
+Secundario
+Principal
+Accidental
+Intencional
+Voluntario
+Involuntario
+Amanecer
+Atardecer
+Medianoche
+Madrugada
+Eclipse
+Aurora
+Crepúsculo
+Tempestad
+Tormenta
+Lluvia
+Nieve
+Granizo
+Viento
+Brisa
+Huracán
+Tornado
+Terremoto
+Erupción
+Volcán
+Avalancha
+Inundación
+Sequía
+Ola
+Marea
+Corriente
+Acantilado
+Península
+Desierto
+Oasis
+Selva
+Sabana
+Pradera
+Cumbre
+Valle
+Cañón
+Glaciar
+Bosque
+Reserva natural
+Parque ecológico
+Jardín botánico
+Río caudaloso
+Lago sereno
+Mar embravecido
+Isla remota
+Castillo encantado
+Palacio real
+Templo antiguo
+Iglesia gótica
+Escuela moderna
+Universidad prestigiosa
+Colegio tradicional
+Oficina luminosa
+Empresa innovadora
+Negocio emergente
+Dinero digital
+Crédito fácil
+Débito seguro
+Tarjeta inteligente
+Computadora avanzada
+Internet global
+Teléfono móvil
+Celular versátil
+Tablet interactivo
+Impresora rápida
+Cámara digital
+Vídeo en alta definición
+Música en vivo
+Concierto inolvidable
+Teatro emocionante
+Película de acción
+Cine independiente
+Drama conmovedor
+Comedia hilarante
+Acción trepidante
+Aventura épica
+Suspenso intenso
+Misterio intrigante
+Novela premiada
+Cuento infantil
+Poema romántico
+Ensayo crítico
+Biografía inspiradora
+Autobiografía sincera
+Crónica histórica
+Relato fantástico
+Mito ancestral
+Leyenda urbana
+Fábula moral
+Parábola espiritual
+Simbolismo profundo
+Realismo mágico
+Impresionismo vibrante
+Cubismo abstracto
+Surrealismo enigmático
+Abstracto minimalista
+Expresionismo dinámico
+Romanticismo nostálgico
+Modernismo sofisticado
+Contemporáneo innovador
+Vanguardista experimental
+Clásico eterno
+Tradicional emblemático
+Popular en masa
+Folclórico regional
+Indígena autóctono
+Global interconectado
+Local auténtico
+Regional diverso
+Universal inclusivo
+Internacional cosmopolita
+Extranjero exótico
+Nacional soberano
+Cultural enriquecedor
+Social cooperativo
+Político democrático
+Económico próspero
+Ambiental sostenible
+Tecnológico revolucionario
+Digital avanzado
+Virtual inmersivo

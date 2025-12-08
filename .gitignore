@@ -1,0 +1,9 @@
+_internal/
+DotSense.exe
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db
+temp_*.mp3
