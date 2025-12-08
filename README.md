@@ -33,3 +33,6 @@ use the following link:
 - **Emilio Daza (Dartmouth College)** - main software development (Python app, final Arduino sketch), interaction design.
 - **Valeria Ruiz (Pontificia Universidad Católica del Perú - PUCP)** - mechatronics engineering student; design and construction of the physical vibration module.
 - **Santiago Maza** - early prototype ideas which included code, and contributions to the physical design.
+
+© 2025 Emilio Daza. All rights reserved.
+Unauthorized commercial use is prohibited.
