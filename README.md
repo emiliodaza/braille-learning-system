@@ -5,7 +5,7 @@ practice Braille using vibration patterns and voice interaction.
 
 ## Screenshots
 <img src="hardware/User Interface.jpeg" width = "480" alt="User Interface">
-<img src="hardware/prototype_photo.jpeg" width = "200" alt = "Physical prototype">
+<img src="hardware/prototype_photo.jpeg" width = "300" alt = "Physical prototype">
 
 ## Repository Layout
 
