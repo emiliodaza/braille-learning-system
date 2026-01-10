@@ -3,6 +3,10 @@
 DotSense is a desktop application plus Arduino-based tactile device designed to help users
 practice Braille using vibration patterns and voice interaction.
 
+## Screenshots
+<img src="hardware/User Interface.jpeg" width = "180" alt="User Interface">
+<img src="prototype_photo.jpeg" width = "180" alt = "Physical prototype">
+
 ## Repository Layout
 
 - 'src/' - Python source code for the DotSense GUI and logic ('DotSense.py')
