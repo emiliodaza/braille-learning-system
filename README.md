@@ -8,6 +8,7 @@ practice Braille using vibration patterns and voice interaction.
 <img src="hardware/User Interface.jpeg" width = "380" alt="User Interface">
 <img src="hardware/prototype_photo.jpeg" width = "280" alt = "Physical prototype">
 </p>
+
 ## Repository Layout
 
 - 'src/' - Python source code for the DotSense GUI and logic ('DotSense.py')
